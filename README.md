@@ -48,9 +48,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
- Developed by: Subash M //
+ Developed by: Subash M 
+ 
  RegisterNumber:212223040210
-
+```
 module JK(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
@@ -85,7 +86,7 @@ else
 end
             
 endmodule
-
+```
 **RTL LOGIC FOR FLIPFLOPS**
 ![image](https://github.com/SubashM00/JKFLIPFLOP-USING-IF-ELSE/assets/144870586/72a92b98-e2e7-48b4-8783-ea8d900b0202)
 
